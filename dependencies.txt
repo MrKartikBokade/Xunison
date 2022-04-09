@@ -1,0 +1,4 @@
+Python==3.9.9
+ffmpeg==5.0
+subprocess module
+os module
