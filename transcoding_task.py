@@ -297,5 +297,3 @@ for operation in operations_to_perform:
     else:
         print(
             f"---Unable to perform: {operation}, it is not a valid operation.")
-
-
